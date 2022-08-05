@@ -1,0 +1,1 @@
+Practicing Infinite Scroll and revising Typescript
